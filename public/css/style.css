@@ -264,10 +264,10 @@ body {
   stroke: #000000;
 }
 .card--black .card__color-bar {
-  background-color: #000000;
+  background-color: #ff8800;
 }
 .card--black .card__color-bar-wave {
-  stroke: #000000;
+  stroke: #ff8800;
 }
 .card--yellow .card__color-bar {
   background-color: #ffe125;
@@ -276,22 +276,22 @@ body {
   stroke: #ffe125;
 }
 .card--blue .card__color-bar {
-  background-color: #0c5cdd;
+  background-color: #00ccff;
 }
 .card--blue .card__color-bar-wave {
-  stroke: #0c5cdd;
+  stroke: #00ccff;
 }
 .card--green .card__color-bar {
-  background-color: #31b55c;
+  background-color: #22cc5b;
 }
 .card--green .card__color-bar-wave {
-  stroke: #31b55c;
+  stroke: #22cc5b;
 }
 .card--pink .card__color-bar {
-  background-color: #ff3cb9;
+  background-color: #9210a3;
 }
 .card--pink .card__color-bar-wave {
-  stroke: #ff3cb9;
+  stroke: #9210a3;
 }
 .card--deadline .card__color-bar {
   background-color: #f11a1a;
@@ -602,7 +602,7 @@ body {
   color: #000000;
 }
 .card--edit .card__hashtag-input:focus {
-  border-color: #0c5cdd;
+  border-color: #00ccff;
 }
 .card--edit .card__colors-inner {
   order: 3;
@@ -632,10 +632,10 @@ body {
   opacity: 0.7;
 }
 .card__color--black {
-  background-color: #0a0a0a;
+  background-color: #ff8800;
 }
 .card__color-input--black:checked + .card__color--black {
-  box-shadow: 0 0 0 4px #ffffff, 0 0 0 6px #0a0a0a;
+  box-shadow: 0 0 0 4px #ffffff, 0 0 0 6px #ff8800;
 }
 .card__color--yellow {
   background-color: #ffe125;
@@ -644,22 +644,22 @@ body {
   box-shadow: 0 0 0 4px #ffffff, 0 0 0 6px #ffe125;
 }
 .card__color--blue {
-  background-color: #0c5cdd;
+  background-color: #00ccff;
 }
 .card__color-input--blue:checked + .card__color--blue {
-  box-shadow: 0 0 0 4px #ffffff, 0 0 0 6px #0c5cdd;
+  box-shadow: 0 0 0 4px #ffffff, 0 0 0 6px #00ccff;
 }
 .card__color--green {
-  background-color: #31b55c;
+  background-color: #22cc5b;
 }
 .card__color-input--green:checked + .card__color--green {
-  box-shadow: 0 0 0 4px #ffffff, 0 0 0 6px #31b55c;
+  box-shadow: 0 0 0 4px #ffffff, 0 0 0 6px #22cc5b;
 }
 .card__color--pink {
-  background-color: #ff3cb9;
+  background-color: #9210a3;
 }
 .card__color-input--pink:checked + .card__color--pink {
-  box-shadow: 0 0 0 4px #ffffff, 0 0 0 6px #ff3cb9;
+  box-shadow: 0 0 0 4px #ffffff, 0 0 0 6px #9210a3;
 }
 .card--edit .card__img-wrap--empty .card__img {
   width: 45px;
